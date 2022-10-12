@@ -1,0 +1,7 @@
+.navbar > .container-fluid {
+    height: 3rem;
+}
+.navbar > .container-fluid > .navbar-brand {
+    font-size: 2rem;
+    text-align: top;
+}
